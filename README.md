@@ -9,3 +9,9 @@ Proyek Flutter ini berfokus pada implementasi komponen **Alert Dialog**, sebuah 
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memperkenalkan cara kerja dan penggunaan **Alert Dialog** di Flutter. Dialog semacam ini sering digunakan dalam aplikasi untuk memberikan peringatan, meminta konfirmasi, atau menginformasikan tindakan penting kepada pengguna. Dengan proyek ini, pengguna dapat belajar cara menampilkan dialog yang efektif, berinteraksi dengannya, dan menangani input dari pengguna.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/004.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/004.2.png" width="200px"/>
+</div>
